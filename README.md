@@ -1,3 +1,4 @@
+![HAMMAD RIAZ](https://raw.githubusercontent.com/HammadRyaz/wonrd__counter/refs/heads/gh-pages/site-logo-white.png "HAMMAD RIAZ")
 ## -----------[https://hammadryaz.github.io/itodo/](https://hammadryaz.github.io/itodo/)------------
 
 # React + Vite

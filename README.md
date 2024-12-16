@@ -37,14 +37,13 @@ This is a simple and interactive Todo List application built with React. The app
 
 	```bash
 	cd todo-list
-	Install dependencies:
 	```
+3. Install dependencies:
 	```bash
 	npm install
-	Start the application:
 	```
+4. Start the application:
 	```bash
-	Copy code
 	npm start 
 	```
 ## Usage
